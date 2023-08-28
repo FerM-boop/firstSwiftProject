@@ -2,8 +2,10 @@
 This is my first swift project, I made a simple and super intuitive TicTacToe game.
 
 ## Preview
-- Screenshot:
+- Screenshot:  
+
 ![TicTacToe Screenshot](./assets/TicTacToeScreenshot.png)
 
-- Gif:
+- Gif:  
+
 ![TicTacToe Gif](./assets/TicTacToeGif.gif)
